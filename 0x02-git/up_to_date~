@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-touch up_to_date
-=======
-touch up_to_date.
->>>>>>> 8020584c79decacaf511dd17063e7d5763aed93d
+echo > up_to_date
